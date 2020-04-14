@@ -1,0 +1,4 @@
+{
+  "db": "mongodb+srv://bepractical:Pruthvi143@cluster0-1eiva.mongodb.net/bepractical-video-cms?authSource=admin&replicaSet=Cluster0-shard-0&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=true",
+  "secret": "BEPRACTICALTEAM@2020"
+}
